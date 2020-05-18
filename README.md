@@ -27,7 +27,7 @@ O resultado final está levemente modificado e dá brecha pra voltar no projeto 
 > O curso me pareceu muito bom, mas não acreditem em mim e vejam por si mesmos em [www.appbrewery.co](https://www.appbrewery.co/)
 
 ### whoami
-> Murillo Cesar Bianconi
+> [Murillo Cesar Bianconi](https://mcbianconi.github.io/)
 
 Você também pode me achar nas redes sociais como @mcbianconi ou através do meu [email](mailto:murillo.bianconi@gmail.com)
 
