@@ -1,17 +1,20 @@
 ![Banner](https://github.com/mcbianconi/images/blob/master/banner.png)
 
-# O App
+# Jornada Flutter - Parte 1
+
+## Motivação
 A ideia de entrar no desenvolvimento de apps nasceu de tanto ver casos no meu trabalho onde a programação mobile parecia uma melhor alternativa para resolver alguns problemas, mas eu não conseguia validar a hipótese por me faltar esse conhecimento.
 Durante a quarentena do COVID-19 me surgiu  [esse curso](https://www.appbrewery.co/p/intro-to-flutter) e resolvi estudá-lo.
 
-## Mi Card
+## O App
 A ideia do aplicativo é substituir o seu cartão de visitas impresso.
 ![print](https://github.com/mcbianconi/images/blob/master/mi-card-app.png)
 
 - É uma ideia simples, mas muito mais funcional e contextualizada que um simples `"hello world"` ou um monte de `"foo bar"` espalhados pelo código, que costumam povoar as fases iniciais de aprendizado de uma tecnologia.
 O resultado final está levemente modificado e dá brecha pra voltar no projeto no futuro e adicionar algumas oportunidades de melhoria, como:
- - [ ] Compartilhar contatos via QRCode
-- [ ]  Integrar com os aplicativos nativos de agenda e telefone
+- [ ] Exibir QRCode quando clicar no avatar
+- [ ] Compartilhar contatos via QRCode
+- [ ] Integrar com os aplicativos nativos de agenda e telefone
 
 
 
